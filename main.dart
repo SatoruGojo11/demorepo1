@@ -4,4 +4,6 @@ void main() {
   int a = 10;
 
   print("The value of a is :- $a");
+
+  print("abcd");
 }
